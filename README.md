@@ -6,7 +6,13 @@ Hello Student Application is done here using Firebase Database, MVVM Architectur
 The Student here application I coded for the private elementary school keeps track of the students in the classroom. When parents bring their children into the classroom, they log in to the app to verify that their children are in the classroom. Likewise, when they remove their children from the classroom, they confirm that they log out of the app and remove them from the classroom.
 
 ## Technologies
-### Swift,SwiftUI,MVVM Artchitecture, Firebase Database, Clean Code, XCode
+- Swift,
+- SwiftUI,
+- MVVM Artchitecture,
+- Firebase Database,
+- SDWebImage,
+- Clean Code,
+- XCode
 
 ## Screenshots 
 
